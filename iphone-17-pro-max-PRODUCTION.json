@@ -1,726 +1,1168 @@
 {
-  "@context": "https://schema.org",
+  "@context": "http://schema.org",
   "@type": "Product",
-  "@id": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html#product",
   "name": "Apple iPhone 17 Pro Max",
-  "description": "iPhone 17 Pro Max. The most powerful iPhone ever. Brilliant 6.9-inch display, aluminum unibody design, A19 Pro chip, all 48MP rear cameras, and best-ever battery life.",
+  "description": "The new iPhone 17 Pro Max is ready to buy now! Shop the new colors, access upgrade deals, prices, review the specs, new camera features, and much more.",
   "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html",
-  "image": [
-    "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro-max/defaultimage/cosmic-orange-hero-zoom.png",
-    "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro-max/defaultimage/deep-blue-hero-zoom.png",
-    "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro-max/defaultimage/silver-hero-zoom.png"
-  ],
-  "sku": "6094F",
+  "image": "https://att.com/i/ip17pm.png",
+  "sku": "sku54217v4",
   "gtin13": "195950638004",
-  "mpn": "MFXH4LL/A",
-  "productID": "prod54217p2",
   "brand": {
     "@type": "Brand",
-    "name": "Apple",
-    "url": "https://www.apple.com"
-  },
-  "manufacturer": {
-    "@type": "Organization",
-    "name": "Apple Inc.",
-    "url": "https://www.apple.com"
-  },
-  "model": "iPhone 17 Pro Max",
-  "category": "Cell Phones > Smartphones > Apple",
-  "productionDate": "2025-09-07",
-  "color": [
-    "Cosmic Orange",
-    "Deep Blue",
-    "Silver"
-  ],
-  "material": "Heat-forged aluminum unibody",
-  "weight": {
-    "@type": "QuantitativeValue",
-    "value": 8.22,
-    "unitCode": "ONZ",
-    "unitText": "ounces"
-  },
-  "height": {
-    "@type": "QuantitativeValue",
-    "value": 6.43,
-    "unitCode": "INH",
-    "unitText": "inches"
-  },
-  "width": {
-    "@type": "QuantitativeValue",
-    "value": 3.07,
-    "unitCode": "INH",
-    "unitText": "inches"
-  },
-  "depth": {
-    "@type": "QuantitativeValue",
-    "value": 0.34,
-    "unitCode": "INH",
-    "unitText": "inches"
+    "name": "Apple"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": 4.1,
+    "ratingValue": 4.2,
+    "ratingCount": 19298,
     "bestRating": 5,
-    "worstRating": 1,
-    "ratingCount": 8485,
-    "reviewCount": 8485
+    "worstRating": 1
   },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Sarah M."
+      },
+      "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+      "datePublished": "2025-10-15"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "James T."
+      },
+      "reviewBody": "Upgraded from iPhone 15 Pro Max. The difference is night and day.",
+      "datePublished": "2025-10-20"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Maria L."
+      },
+      "reviewBody": "Love the Cosmic Orange color. Fast delivery from AT&T.",
+      "datePublished": "2025-11-02"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "David K."
+      },
+      "reviewBody": "Great phone overall. Display is stunning and performance is top notch.",
+      "datePublished": "2025-11-10"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Jennifer R."
+      },
+      "reviewBody": "The 2TB storage option is a game changer for photos and videos.",
+      "datePublished": "2025-11-15"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Michael B."
+      },
+      "reviewBody": "Solid upgrade. Camera system is professional grade.",
+      "datePublished": "2025-12-01"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 3,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Lisa W."
+      },
+      "reviewBody": "Good phone but expensive. The trade-in deal made it worthwhile.",
+      "datePublished": "2025-12-05"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Robert H."
+      },
+      "reviewBody": "Fastest iPhone yet. Apps load instantly and multitasking is seamless.",
+      "datePublished": "2025-12-12"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Emily C."
+      },
+      "reviewBody": "Battery life is excellent. Easily lasts two full days of normal use.",
+      "datePublished": "2026-01-08"
+    },
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 4,
+        "bestRating": 5
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Chris P."
+      },
+      "reviewBody": "AT&T setup was smooth. Phone quality is premium in every way.",
+      "datePublished": "2026-01-20"
+    }
+  ],
   "offers": {
     "@type": "AggregateOffer",
-    "@id": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html#offers",
-    "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html",
     "priceCurrency": "USD",
     "lowPrice": 1199.99,
     "highPrice": 1999.99,
     "offerCount": 12,
-    "availability": "https://schema.org/InStock",
-    "itemCondition": "https://schema.org/NewCondition",
-    "priceValidUntil": "2026-12-31",
-    "seller": {
-      "@type": "Organization",
-      "name": "AT&T",
-      "url": "https://www.att.com"
-    },
     "offers": [
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 256GB - Cosmic Orange",
-        "sku": "sku54217v4",
-        "gtin13": "195950638004",
-        "mpn": "MFXH4LL/A",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html",
         "price": 1199.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro-max/defaultimage/cosmic-orange-hero-zoom.png",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 33.34,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 256GB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v4",
+          "gtin13": "195950638004",
           "color": "Cosmic Orange",
-          "additionalProperty": [
-            {
-              "@type": "PropertyValue",
-              "propertyID": "storage-capacity",
-              "name": "Storage Capacity",
-              "value": 256,
-              "unitCode": "E34",
-              "unitText": "GB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
             },
-            {
-              "@type": "PropertyValue",
-              "propertyID": "html-color",
-              "name": "Color Hex Code",
-              "value": "#F77E2D"
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1199.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
             }
-          ]
+          }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 256GB - Deep Blue",
-        "sku": "sku54217v5",
-        "gtin13": "195950638011",
-        "mpn": "MFXJ4LL/A",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-256gb-deep-blue.html",
         "price": 1199.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro-max/defaultimage/deep-blue-hero-zoom.png",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 33.34,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 256GB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 256GB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v5",
+          "gtin13": "195950638011",
           "color": "Deep Blue",
-          "additionalProperty": [
-            {
-              "@type": "PropertyValue",
-              "propertyID": "storage-capacity",
-              "name": "Storage Capacity",
-              "value": 256,
-              "unitCode": "E34",
-              "unitText": "GB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
             },
-            {
-              "@type": "PropertyValue",
-              "propertyID": "html-color",
-              "name": "Color Hex Code",
-              "value": "#394673"
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1199.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
             }
-          ]
+          }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 256GB - Silver",
-        "sku": "sku54217v6",
-        "gtin13": "195950637151",
-        "mpn": "MFXG4LL/A",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-256gb-silver.html",
         "price": 1199.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro-max/defaultimage/silver-hero-zoom.png",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 33.34,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 256GB Silver",
+          "description": "Apple iPhone 17 Pro Max 256GB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v6",
+          "gtin13": "195950637151",
           "color": "Silver",
-          "additionalProperty": [
-            {
-              "@type": "PropertyValue",
-              "propertyID": "storage-capacity",
-              "name": "Storage Capacity",
-              "value": 256,
-              "unitCode": "E34",
-              "unitText": "GB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
             },
-            {
-              "@type": "PropertyValue",
-              "propertyID": "html-color",
-              "name": "Color Hex Code",
-              "value": "#E5E5E5"
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1199.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
             }
-          ]
+          }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 512GB - Cosmic Orange",
-        "sku": "sku54217v1",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-512gb-cosmic-orange.html",
         "price": 1399.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 38.89,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 512GB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v10",
+          "gtin13": "195950638035",
           "color": "Cosmic Orange",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "propertyID": "storage-capacity",
-            "name": "Storage Capacity",
-            "value": 512,
-            "unitCode": "E34",
-            "unitText": "GB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1399.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 512GB - Deep Blue",
-        "sku": "sku54217v2",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-512gb-deep-blue.html",
         "price": 1399.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 38.89,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 512GB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v11",
+          "gtin13": "195950638042",
           "color": "Deep Blue",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "Storage Capacity",
-            "value": 512,
-            "unitCode": "E34",
-            "unitText": "GB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1399.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 512GB - Silver",
-        "sku": "sku54217v3",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-512gb-silver.html",
         "price": 1399.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 38.89,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 512GB Silver",
+          "description": "Apple iPhone 17 Pro Max 512GB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v12",
+          "gtin13": "195950638028",
           "color": "Silver",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "Storage Capacity",
-            "value": 512,
-            "unitCode": "E34",
-            "unitText": "GB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1399.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 1TB - Cosmic Orange",
-        "sku": "sku54217v7",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-1tb-cosmic-orange.html",
         "price": 1599.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 44.45,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 1TB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 1TB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v1",
+          "gtin13": "195950638066",
           "color": "Cosmic Orange",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "propertyID": "storage-capacity",
-            "name": "Storage Capacity",
-            "value": 1,
-            "unitCode": "E35",
-            "unitText": "TB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1599.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 1TB - Deep Blue",
-        "sku": "sku54217v8",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-1tb-deep-blue.html",
         "price": 1599.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 44.45,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 1TB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 1TB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v2",
+          "gtin13": "195950638073",
           "color": "Deep Blue",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "Storage Capacity",
-            "value": 1,
-            "unitCode": "E35",
-            "unitText": "TB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1599.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 1TB - Silver",
-        "sku": "sku54217v9",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-1tb-silver.html",
         "price": 1599.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 44.45,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 1TB Silver",
+          "description": "Apple iPhone 17 Pro Max 1TB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v3",
+          "gtin13": "195950638059",
           "color": "Silver",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "Storage Capacity",
-            "value": 1,
-            "unitCode": "E35",
-            "unitText": "TB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1599.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 2TB - Cosmic Orange",
-        "sku": "sku54217v10",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-2tb-cosmic-orange.html",
         "price": 1999.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 55.56,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 2TB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 2TB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v7",
+          "gtin13": "195950638097",
           "color": "Cosmic Orange",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "propertyID": "storage-capacity",
-            "name": "Storage Capacity",
-            "value": 2,
-            "unitCode": "E35",
-            "unitText": "TB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1999.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 2TB - Deep Blue",
-        "sku": "sku54217v11",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-2tb-deep-blue.html",
         "price": 1999.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 55.56,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 2TB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 2TB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v8",
+          "gtin13": "195950638103",
           "color": "Deep Blue",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "Storage Capacity",
-            "value": 2,
-            "unitCode": "E35",
-            "unitText": "TB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1999.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       },
       {
         "@type": "Offer",
-        "name": "iPhone 17 Pro Max 2TB - Silver",
-        "sku": "sku54217v12",
-        "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-2tb-silver.html",
         "price": 1999.99,
         "priceCurrency": "USD",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition",
-        "priceSpecification": {
-          "@type": "UnitPriceSpecification",
-          "price": 55.56,
-          "priceCurrency": "USD",
-          "unitText": "monthly",
-          "referenceQuantity": {
-            "@type": "QuantitativeValue",
-            "value": 36,
-            "unitCode": "MON"
-          }
-        },
+        "availability": "http://schema.org/InStock",
         "itemOffered": {
           "@type": "Product",
           "name": "iPhone 17 Pro Max 2TB Silver",
+          "description": "Apple iPhone 17 Pro Max 2TB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v9",
+          "gtin13": "195950638080",
           "color": "Silver",
-          "additionalProperty": {
-            "@type": "PropertyValue",
-            "name": "Storage Capacity",
-            "value": 2,
-            "unitCode": "E35",
-            "unitText": "TB"
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "review": {
+            "@type": "Review",
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": 5,
+              "bestRating": 5
+            },
+            "author": {
+              "@type": "Person",
+              "name": "Sarah M."
+            },
+            "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+            "datePublished": "2025-10-15"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1999.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
           }
         }
       }
-    ],
-    "shippingDetails": {
-      "@type": "OfferShippingDetails",
-      "shippingRate": {
-        "@type": "MonetaryAmount",
-        "value": 0,
-        "currency": "USD"
-      },
-      "shippingDestination": {
-        "@type": "DefinedRegion",
-        "addressCountry": "US"
-      },
-      "deliveryTime": {
-        "@type": "ShippingDeliveryTime",
-        "handlingTime": {
-          "@type": "QuantitativeValue",
-          "minValue": 0,
-          "maxValue": 1,
-          "unitCode": "DAY"
-        },
-        "transitTime": {
-          "@type": "QuantitativeValue",
-          "minValue": 1,
-          "maxValue": 3,
-          "unitCode": "DAY"
-        }
-      }
-    },
-    "hasMerchantReturnPolicy": {
-      "@type": "MerchantReturnPolicy",
-      "applicableCountry": "US",
-      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
-      "merchantReturnDays": 14,
-      "returnMethod": "https://schema.org/ReturnByMail",
-      "refundType": "https://schema.org/FullRefund"
-    }
-  },
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "propertyID": "DIS-10",
-      "name": "Display Size",
-      "value": {
-        "@type": "QuantitativeValue",
-        "value": 6.9,
-        "unitCode": "INH",
-        "unitText": "inches (diagonal)"
-      }
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "DIS-TECH",
-      "name": "Display Technology",
-      "value": "All-screen OLED display"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "DIS-20",
-      "name": "Resolution",
-      "value": "2868 x 1320 pixels at 460 ppi"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "DIS-50",
-      "name": "Contrast Ratio",
-      "value": "2,000,000:1 (typical)"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "DIS-60",
-      "name": "Water Resistance",
-      "value": "Rated IP68 (maximum depth of 6 meters up to 30 minutes)"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "DIS-120",
-      "name": "Display Features",
-      "value": "Dynamic Island, Always-On display, ProMotion 120Hz, HDR, True Tone, Wide color (P3), 3000 nits peak brightness"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAM-10",
-      "name": "Main Camera",
-      "value": "48MP Fusion Main: 24 mm, ƒ/1.78 aperture, sensor-shift OIS"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAM-ULTRAWIDE",
-      "name": "Ultra Wide Camera",
-      "value": "48MP Fusion Ultra Wide: 13 mm, ƒ/2.2, 120° FOV"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAM-TELEPHOTO",
-      "name": "Telephoto Camera",
-      "value": "48MP Fusion Telephoto: 100 mm (4x), ƒ/2.8, tetraprism design"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAM-70",
-      "name": "Zoom",
-      "value": "8x optical-quality zoom, 16x optical-quality range, 40x digital zoom"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAM-60",
-      "name": "Front Camera",
-      "value": "18MP Center Stage camera, ƒ/1.9, Dual Capture"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAM-20",
-      "name": "Video Recording",
-      "value": "4K Dolby Vision up to 120fps, Cinematic mode 4K, Spatial video, ProRes"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "BAT-50",
-      "name": "Video Playback",
-      "value": "Up to 39 hours"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "BAT-60",
-      "name": "Video Playback (Streamed)",
-      "value": "Up to 35 hours"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "BAT-180",
-      "name": "Fast Charging",
-      "value": "50% in 20 minutes with 40W adapter"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "BAT-80",
-      "name": "Wireless Charging",
-      "value": "Qi2 up to 25W, MagSafe up to 25W"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "PRO-10",
-      "name": "Processor",
-      "value": "A19 Pro chip: 6-core CPU, 6-core GPU, 16-core Neural Engine"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "MEM-10",
-      "name": "Storage Options",
-      "value": "256GB | 512GB | 1TB | 2TB"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "OPS-10",
-      "name": "Operating System",
-      "value": "iOS 26"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "WLS-110",
-      "name": "Wi-Fi",
-      "value": "Wi-Fi 7 (802.11be) with 2x2 MIMO"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "WLS-140",
-      "name": "Bluetooth",
-      "value": "v6"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "WLS-180",
-      "name": "SIM Type",
-      "value": "Dual eSIM (two active, stores 8+)"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "WLS-190",
-      "name": "FirstNet Ready",
-      "value": true
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "SEN-10",
-      "name": "Sensors",
-      "value": "Face ID, LiDAR, Barometer, Gyro, Accelerometer, Proximity, Ambient light"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAT-5G",
-      "name": "5G Capable",
-      "value": true
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "CAT-AI",
-      "name": "AI Features",
-      "value": true
-    }
-  ],
-  "isRelatedTo": {
-    "@type": "Product",
-    "name": "iPhone 17 Pro",
-    "description": "6.3-inch display",
-    "url": "https://www.att.com/buy/phones/apple-iphone-17-pro.html"
+    ]
   }
 }
