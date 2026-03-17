@@ -1,0 +1,510 @@
+[
+  {
+    "@context": "https://schema.org/",
+    "@type": "ProductGroup",
+    "name": "Apple iPhone 17 Pro Max",
+    "description": "iPhone 17 Pro Max featuring A19 Pro chip, advanced camera system, and all-day battery life",
+    "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html",
+    "brand": {
+      "@type": "Brand",
+      "name": "Apple"
+    },
+    "productGroupID": "sku54217",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": 4.2,
+      "ratingCount": 19298,
+      "bestRating": 5,
+      "worstRating": 1
+    },
+    "review": [
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Sarah M."
+        },
+        "reviewBody": "Best iPhone ever! Camera is incredible and battery lasts all day.",
+        "datePublished": "2025-10-15"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "James T."
+        },
+        "reviewBody": "Upgraded from iPhone 15 Pro Max. The difference is night and day.",
+        "datePublished": "2025-10-20"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Maria L."
+        },
+        "reviewBody": "Love the Cosmic Orange color. Fast delivery from AT&T.",
+        "datePublished": "2025-11-02"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "David K."
+        },
+        "reviewBody": "Great phone overall. Display is stunning and performance is top notch.",
+        "datePublished": "2025-11-10"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Jennifer R."
+        },
+        "reviewBody": "The 2TB storage option is a game changer for photos and videos.",
+        "datePublished": "2025-11-15"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Michael B."
+        },
+        "reviewBody": "Solid upgrade. Camera system is professional grade.",
+        "datePublished": "2025-12-01"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 3,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Lisa W."
+        },
+        "reviewBody": "Good phone but expensive. The trade-in deal made it worthwhile.",
+        "datePublished": "2025-12-05"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 5,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Robert H."
+        },
+        "reviewBody": "Fastest iPhone yet. Apps load instantly and multitasking is seamless.",
+        "datePublished": "2025-12-12"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Emily C."
+        },
+        "reviewBody": "Battery life is excellent. Easily lasts two full days of normal use.",
+        "datePublished": "2026-01-08"
+      },
+      {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": 4,
+          "bestRating": 5
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Chris P."
+        },
+        "reviewBody": "AT&T setup was smooth. Phone quality is premium in every way.",
+        "datePublished": "2026-01-20"
+      }
+    ],
+    "variesBy": [
+      "https://schema.org/color",
+      "https://schema.org/size"
+    ],
+    "hasVariant": [
+      {
+        "@type": "Product",
+        "sku": "sku54217v4",
+        "gtin13": "195950638004",
+        "image": "https://att.com/i/ip17pm-orange.png",
+        "name": "iPhone 17 Pro Max 256GB Cosmic Orange",
+        "description": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+        "color": "Cosmic Orange",
+        "size": "256GB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-256gb-cosmicorange-sku54217v4.html",
+          "priceCurrency": "USD",
+          "price": 1199.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v5",
+        "gtin13": "195950638011",
+        "image": "https://att.com/i/ip17pm-blue.png",
+        "name": "iPhone 17 Pro Max 256GB Deep Blue",
+        "description": "Apple iPhone 17 Pro Max 256GB Deep Blue",
+        "color": "Deep Blue",
+        "size": "256GB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-256gb-deepblue-sku54217v5.html",
+          "priceCurrency": "USD",
+          "price": 1199.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v6",
+        "gtin13": "195950638028",
+        "image": "https://att.com/i/ip17pm-silver.png",
+        "name": "iPhone 17 Pro Max 256GB Silver",
+        "description": "Apple iPhone 17 Pro Max 256GB Silver",
+        "color": "Silver",
+        "size": "256GB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-256gb-silver-sku54217v6.html",
+          "priceCurrency": "USD",
+          "price": 1199.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v10",
+        "gtin13": "195950638035",
+        "image": "https://att.com/i/ip17pm-orange.png",
+        "name": "iPhone 17 Pro Max 512GB Cosmic Orange",
+        "description": "Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+        "color": "Cosmic Orange",
+        "size": "512GB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-512gb-cosmicorange-sku54217v10.html",
+          "priceCurrency": "USD",
+          "price": 1399.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v11",
+        "gtin13": "195950638042",
+        "image": "https://att.com/i/ip17pm-blue.png",
+        "name": "iPhone 17 Pro Max 512GB Deep Blue",
+        "description": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+        "color": "Deep Blue",
+        "size": "512GB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-512gb-deepblue-sku54217v11.html",
+          "priceCurrency": "USD",
+          "price": 1399.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v12",
+        "gtin13": "195950638059",
+        "image": "https://att.com/i/ip17pm-silver.png",
+        "name": "iPhone 17 Pro Max 512GB Silver",
+        "description": "Apple iPhone 17 Pro Max 512GB Silver",
+        "color": "Silver",
+        "size": "512GB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-512gb-silver-sku54217v12.html",
+          "priceCurrency": "USD",
+          "price": 1399.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v1",
+        "gtin13": "195950638066",
+        "image": "https://att.com/i/ip17pm-orange.png",
+        "name": "iPhone 17 Pro Max 1TB Cosmic Orange",
+        "description": "Apple iPhone 17 Pro Max 1TB Cosmic Orange",
+        "color": "Cosmic Orange",
+        "size": "1TB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-1tb-cosmicorange-sku54217v1.html",
+          "priceCurrency": "USD",
+          "price": 1599.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v2",
+        "gtin13": "195950638073",
+        "image": "https://att.com/i/ip17pm-blue.png",
+        "name": "iPhone 17 Pro Max 1TB Deep Blue",
+        "description": "Apple iPhone 17 Pro Max 1TB Deep Blue",
+        "color": "Deep Blue",
+        "size": "1TB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-1tb-deepblue-sku54217v2.html",
+          "priceCurrency": "USD",
+          "price": 1599.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v3",
+        "gtin13": "195950638080",
+        "image": "https://att.com/i/ip17pm-silver.png",
+        "name": "iPhone 17 Pro Max 1TB Silver",
+        "description": "Apple iPhone 17 Pro Max 1TB Silver",
+        "color": "Silver",
+        "size": "1TB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-1tb-silver-sku54217v3.html",
+          "priceCurrency": "USD",
+          "price": 1599.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v7",
+        "gtin13": "195950638097",
+        "image": "https://att.com/i/ip17pm-orange.png",
+        "name": "iPhone 17 Pro Max 2TB Cosmic Orange",
+        "description": "Apple iPhone 17 Pro Max 2TB Cosmic Orange",
+        "color": "Cosmic Orange",
+        "size": "2TB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-2tb-cosmicorange-sku54217v7.html",
+          "priceCurrency": "USD",
+          "price": 1999.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v8",
+        "gtin13": "195950638103",
+        "image": "https://att.com/i/ip17pm-blue.png",
+        "name": "iPhone 17 Pro Max 2TB Deep Blue",
+        "description": "Apple iPhone 17 Pro Max 2TB Deep Blue",
+        "color": "Deep Blue",
+        "size": "2TB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-2tb-deepblue-sku54217v8.html",
+          "priceCurrency": "USD",
+          "price": 1999.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      },
+      {
+        "@type": "Product",
+        "sku": "sku54217v9",
+        "gtin13": "195950638110",
+        "image": "https://att.com/i/ip17pm-silver.png",
+        "name": "iPhone 17 Pro Max 2TB Silver",
+        "description": "Apple iPhone 17 Pro Max 2TB Silver",
+        "color": "Silver",
+        "size": "2TB",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max-2tb-silver-sku54217v9.html",
+          "priceCurrency": "USD",
+          "price": 1999.99,
+          "itemCondition": "https://schema.org/NewCondition",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31",
+          "shippingDetails": {
+            "@id": "#shipping_policy"
+          },
+          "hasMerchantReturnPolicy": {
+            "@id": "#return_policy"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "OfferShippingDetails",
+    "@id": "#shipping_policy",
+    "shippingRate": {
+      "@type": "MonetaryAmount",
+      "value": 0,
+      "currency": "USD"
+    },
+    "shippingDestination": {
+      "@type": "DefinedRegion",
+      "addressCountry": "US"
+    },
+    "deliveryTime": {
+      "@type": "ShippingDeliveryTime",
+      "handlingTime": {
+        "@type": "QuantitativeValue",
+        "minValue": 1,
+        "maxValue": 3,
+        "unitCode": "DAY"
+      },
+      "transitTime": {
+        "@type": "QuantitativeValue",
+        "minValue": 2,
+        "maxValue": 5,
+        "unitCode": "DAY"
+      }
+    }
+  },
+  {
+    "@context": "https://schema.org/",
+    "@type": "MerchantReturnPolicy",
+    "@id": "#return_policy",
+    "applicableCountry": "US",
+    "returnPolicyCountry": "US",
+    "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+    "merchantReturnDays": 30,
+    "returnMethod": "https://schema.org/ReturnByMail",
+    "returnFees": "https://schema.org/FreeReturn",
+    "url": "https://www.att.com/wireless/return-policy/"
+  }
+]
