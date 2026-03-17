@@ -1,0 +1,858 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "name": "Apple iPhone 17 Pro Max",
+  "description": "The new iPhone 17 Pro Max is ready to buy now! Shop the new colors, access upgrade deals, prices, review the specs, new camera features, and much more.",
+  "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html",
+  "image": "https://att.com/i/ip17pm.png",
+  "sku": "sku54217v4",
+  "gtin13": "195950638004",
+  "brand": {
+    "@type": "Brand",
+    "name": "Apple"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.2,
+    "ratingCount": 19298,
+    "bestRating": 5,
+    "worstRating": 1
+  },
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": 1199.99,
+    "highPrice": 1999.99,
+    "offerCount": 12,
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": 1199.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 256GB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 256GB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v4",
+          "gtin13": "195950638004",
+          "color": "Cosmic Orange",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1199.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1199.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 256GB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 256GB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v5",
+          "gtin13": "195950638011",
+          "color": "Deep Blue",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1199.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1199.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 256GB Silver",
+          "description": "Apple iPhone 17 Pro Max 256GB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v6",
+          "gtin13": "195950637151",
+          "color": "Silver",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1199.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1399.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 512GB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 512GB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v10",
+          "gtin13": "195950638035",
+          "color": "Cosmic Orange",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1399.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1399.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 512GB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 512GB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v11",
+          "gtin13": "195950638042",
+          "color": "Deep Blue",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1399.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1399.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 512GB Silver",
+          "description": "Apple iPhone 17 Pro Max 512GB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v12",
+          "gtin13": "195950638028",
+          "color": "Silver",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1399.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1599.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 1TB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 1TB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v1",
+          "gtin13": "195950638066",
+          "color": "Cosmic Orange",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1599.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1599.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 1TB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 1TB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v2",
+          "gtin13": "195950638073",
+          "color": "Deep Blue",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1599.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1599.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 1TB Silver",
+          "description": "Apple iPhone 17 Pro Max 1TB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v3",
+          "gtin13": "195950638059",
+          "color": "Silver",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1599.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1999.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 2TB Cosmic Orange",
+          "description": "Apple iPhone 17 Pro Max 2TB Cosmic Orange",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v7",
+          "gtin13": "195950638097",
+          "color": "Cosmic Orange",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1999.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1999.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 2TB Deep Blue",
+          "description": "Apple iPhone 17 Pro Max 2TB Deep Blue",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v8",
+          "gtin13": "195950638103",
+          "color": "Deep Blue",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1999.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      },
+      {
+        "@type": "Offer",
+        "price": 1999.99,
+        "priceCurrency": "USD",
+        "availability": "http://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "iPhone 17 Pro Max 2TB Silver",
+          "description": "Apple iPhone 17 Pro Max 2TB Silver",
+          "image": "https://att.com/i/ip17pm.png",
+          "sku": "sku54217v9",
+          "gtin13": "195950638080",
+          "color": "Silver",
+          "brand": {
+            "@type": "Brand",
+            "name": "Apple"
+          },
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.2,
+            "ratingCount": 19298,
+            "bestRating": 5,
+            "worstRating": 1
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": 1999.99,
+            "priceCurrency": "USD",
+            "availability": "http://schema.org/InStock",
+            "priceValidUntil": "2026-12-31",
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": 0,
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 1,
+                  "maxValue": 3,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 2,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                }
+              }
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "US",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 30,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+              "url": "https://www.att.com/wireless/return-policy/"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
