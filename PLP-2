@@ -21,14 +21,81 @@
             "name": "iPhone 17 Pro Max",
             "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro-max/defaultimage/cosmic-orange-hero-zoom.png",
             "url": "https://www.att.com/buy/phones/apple-iphone-17-pro-max.html",
-            "brand": { "@type": "Brand", "name": "Apple" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Apple"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "1245",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Michael R."
+                },
+                "datePublished": "2026-03-15",
+                "reviewBody": "Best iPhone yet. The camera and battery life are exceptional.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Apple's flagship iPhone 17 Pro Max with the most advanced camera system, A19 Pro chip, and largest Pro display. Available at AT&T with flexible payment plans."
           }
         },
         {
@@ -40,14 +107,81 @@
             "name": "iPhone 17 Pro",
             "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17-pro/defaultimage/space-black-hero-zoom.png",
             "url": "https://www.att.com/buy/phones/apple-iphone-17-pro.html",
-            "brand": { "@type": "Brand", "name": "Apple" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Apple"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "987",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Sarah L."
+                },
+                "datePublished": "2026-02-20",
+                "reviewBody": "Fast performance and beautiful display. Highly recommend.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "iPhone 17 Pro features the powerful A19 Pro chip, pro-grade camera system, and titanium design. Get it at AT&T with eligible trade-in offers."
           }
         },
         {
@@ -59,14 +193,81 @@
             "name": "iPhone Air",
             "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-air/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/apple-iphone-air.html",
-            "brand": { "@type": "Brand", "name": "Apple" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Apple"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "542",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "David K."
+                },
+                "datePublished": "2026-04-02",
+                "reviewBody": "Incredibly thin and light. Perfect for everyday use.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "The all-new iPhone Air \u2014 Apple's thinnest and lightest iPhone ever, built for everyday brilliance. Available at AT&T."
           }
         },
         {
@@ -78,14 +279,81 @@
             "name": "iPhone 17",
             "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-17/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/apple-iphone-17.html",
-            "brand": { "@type": "Brand", "name": "Apple" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Apple"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "2103",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Jennifer M."
+                },
+                "datePublished": "2026-01-18",
+                "reviewBody": "Great upgrade from my previous iPhone. Love the new features.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "iPhone 17 brings a stunning display, powerful A19 chip, and advanced dual-camera system. Available at AT&T with great deals."
           }
         },
         {
@@ -97,14 +365,81 @@
             "name": "iPhone 16e",
             "image": "https://www.att.com/scmsassets/global/devices/phones/apple/apple-iphone-16e/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/apple-iphone-16e.html",
-            "brand": { "@type": "Brand", "name": "Apple" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Apple"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "1678",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Robert T."
+                },
+                "datePublished": "2025-12-10",
+                "reviewBody": "Excellent value for the price. Reliable and fast.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "4",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "iPhone 16e delivers essential Apple Intelligence features and great performance at an accessible price. Available at AT&T."
           }
         },
         {
@@ -116,14 +451,81 @@
             "name": "Samsung Galaxy S25 Ultra",
             "image": "https://www.att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-s25-ultra/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/samsung-galaxy-s25-ultra.html",
-            "brand": { "@type": "Brand", "name": "Samsung" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Samsung"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.8",
+              "reviewCount": "3421",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Amanda S."
+                },
+                "datePublished": "2026-02-05",
+                "reviewBody": "Outstanding camera system and S Pen functionality. Best Android phone.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Samsung Galaxy S25 Ultra with built-in Galaxy AI, a 200MP camera, and integrated S Pen. Available at AT&T with eligible trade-in."
           }
         },
         {
@@ -135,14 +537,81 @@
             "name": "Samsung Galaxy S25 FE",
             "image": "https://www.att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-s25-fe/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/samsung-galaxy-s25-fe.html",
-            "brand": { "@type": "Brand", "name": "Samsung" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Samsung"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "856",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Christopher J."
+                },
+                "datePublished": "2026-03-22",
+                "reviewBody": "Great features at an affordable price point.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "4",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Galaxy S25 FE brings flagship Galaxy AI features and premium design at a smart value. Available at AT&T."
           }
         },
         {
@@ -154,14 +623,81 @@
             "name": "Samsung Galaxy S25+",
             "image": "https://www.att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-s25-plus/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/samsung-galaxy-s25plus.html",
-            "brand": { "@type": "Brand", "name": "Samsung" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Samsung"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "1834",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Patricia W."
+                },
+                "datePublished": "2026-01-30",
+                "reviewBody": "Beautiful display and smooth performance. Very happy with this purchase.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Samsung Galaxy S25+ with a brilliant Dynamic AMOLED 2X display, Galaxy AI, and pro-grade camera. Available at AT&T."
           }
         },
         {
@@ -173,14 +709,81 @@
             "name": "Samsung Galaxy Z Fold7",
             "image": "https://www.att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-z-fold7/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/samsung-galaxy-z-fold7.html",
-            "brand": { "@type": "Brand", "name": "Samsung" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Samsung"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "672",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "James H."
+                },
+                "datePublished": "2026-02-14",
+                "reviewBody": "Innovative folding design. Productivity on the go is amazing.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Samsung Galaxy Z Fold7 \u2014 the thinnest, lightest Galaxy Fold yet, with a large internal display for multitasking and Galaxy AI. Available at AT&T."
           }
         },
         {
@@ -192,14 +795,81 @@
             "name": "Samsung Galaxy Z Flip7",
             "image": "https://www.att.com/scmsassets/global/devices/phones/samsung/samsung-galaxy-z-flip7/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/samsung-galaxy-z-flip7.html",
-            "brand": { "@type": "Brand", "name": "Samsung" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Samsung"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "891",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Emily C."
+                },
+                "datePublished": "2026-03-08",
+                "reviewBody": "Compact and stylish. Love the cover display features.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "4",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Samsung Galaxy Z Flip7 with a larger cover screen, Galaxy AI features, and compact foldable design. Available at AT&T."
           }
         },
         {
@@ -211,14 +881,81 @@
             "name": "Google Pixel 10 Pro XL",
             "image": "https://www.att.com/scmsassets/global/devices/phones/google/google-pixel-10-pro-xl/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/google-pixel-10-pro-xl.html",
-            "brand": { "@type": "Brand", "name": "Google" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Google"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.7",
+              "reviewCount": "1156",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Daniel P."
+                },
+                "datePublished": "2026-01-25",
+                "reviewBody": "Best Android camera. AI features are impressive.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Google Pixel 10 Pro XL with the Tensor G5 chip, advanced Pro camera system, and Gemini AI. Available at AT&T."
           }
         },
         {
@@ -230,14 +967,81 @@
             "name": "Google Pixel 10 Pro",
             "image": "https://www.att.com/scmsassets/global/devices/phones/google/google-pixel-10-pro/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/google-pixel-10-pro.html",
-            "brand": { "@type": "Brand", "name": "Google" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Google"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.6",
+              "reviewCount": "1342",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Lisa G."
+                },
+                "datePublished": "2026-02-28",
+                "reviewBody": "Pure Android experience with excellent software updates.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Pixel 10 Pro features a powerful Pro camera system, Tensor G5 performance, and Gemini AI. Available at AT&T."
           }
         },
         {
@@ -249,14 +1053,81 @@
             "name": "Google Pixel 10",
             "image": "https://www.att.com/scmsassets/global/devices/phones/google/google-pixel-10/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/google-pixel-10.html",
-            "brand": { "@type": "Brand", "name": "Google" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Google"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "1789",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Kevin B."
+                },
+                "datePublished": "2026-03-12",
+                "reviewBody": "Great everyday phone with reliable performance.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "4",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Google Pixel 10 with the Tensor G5 chip, helpful Gemini AI, and an excellent camera. Available at AT&T."
           }
         },
         {
@@ -268,14 +1139,81 @@
             "name": "Google Pixel 9a",
             "image": "https://www.att.com/scmsassets/global/devices/phones/google/google-pixel-9a/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/google-pixel-9a.html",
-            "brand": { "@type": "Brand", "name": "Google" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Google"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "923",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Nicole F."
+                },
+                "datePublished": "2026-01-15",
+                "reviewBody": "Solid budget-friendly option with great camera quality.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "4",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Google Pixel 9a delivers the best of Pixel \u2014 great camera, helpful AI, and 7 years of updates \u2014 at a smart price. Available at AT&T."
           }
         },
         {
@@ -287,14 +1225,81 @@
             "name": "Motorola moto g stylus (2025)",
             "image": "https://www.att.com/scmsassets/global/devices/phones/motorola/motorola-moto-g-stylus-2025/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/motorola-moto-g-stylus-2025.html",
-            "brand": { "@type": "Brand", "name": "Motorola" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Motorola"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.3",
+              "reviewCount": "567",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Thomas A."
+                },
+                "datePublished": "2026-02-18",
+                "reviewBody": "Stylus is a nice touch. Good value for the features.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "4",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Motorola moto g stylus (2025) with a built-in stylus, vibrant pOLED display, and capable performance. Available at AT&T."
           }
         },
         {
@@ -306,14 +1311,81 @@
             "name": "Motorola razr ultra (2025)",
             "image": "https://www.att.com/scmsassets/global/devices/phones/motorola/motorola-razr-ultra-2025/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/motorola-razr-ultra-2025.html",
-            "brand": { "@type": "Brand", "name": "Motorola" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Motorola"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.5",
+              "reviewCount": "412",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Rachel D."
+                },
+                "datePublished": "2026-03-05",
+                "reviewBody": "Premium foldable with stunning design. Worth the upgrade.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "5",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Motorola razr ultra (2025) \u2014 premium foldable design with the largest external display in the razr lineup. Available at AT&T."
           }
         },
         {
@@ -325,14 +1397,81 @@
             "name": "Motorola razr+ (2025)",
             "image": "https://www.att.com/scmsassets/global/devices/phones/motorola/motorola-razrplus-2025/defaultimage/hero-zoom.png",
             "url": "https://www.att.com/buy/phones/motorola-razrplus-2025.html",
-            "brand": { "@type": "Brand", "name": "Motorola" },
+            "brand": {
+              "@type": "Brand",
+              "name": "Motorola"
+            },
             "offers": {
               "@type": "Offer",
               "priceCurrency": "USD",
               "price": "0.00",
               "availability": "https://schema.org/InStock",
-              "seller": { "@type": "Organization", "name": "AT&T" }
-            }
+              "seller": {
+                "@type": "Organization",
+                "name": "AT&T"
+              },
+              "shippingDetails": {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                  "@type": "MonetaryAmount",
+                  "value": "0.00",
+                  "currency": "USD"
+                },
+                "shippingDestination": {
+                  "@type": "DefinedRegion",
+                  "addressCountry": "US"
+                },
+                "deliveryTime": {
+                  "@type": "ShippingDeliveryTime",
+                  "handlingTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 0,
+                    "maxValue": 1,
+                    "unitCode": "DAY"
+                  },
+                  "transitTime": {
+                    "@type": "QuantitativeValue",
+                    "minValue": 1,
+                    "maxValue": 5,
+                    "unitCode": "DAY"
+                  }
+                }
+              },
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "applicableCountry": "US",
+                "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+                "merchantReturnDays": 14,
+                "returnMethod": "https://schema.org/ReturnByMail",
+                "returnFees": "https://schema.org/FreeReturn",
+                "merchantReturnLink": "https://www.att.com/support/article/wireless/KM1009085/"
+              }
+            },
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.4",
+              "reviewCount": "634",
+              "bestRating": "5",
+              "worstRating": "1"
+            },
+            "review": [
+              {
+                "@type": "Review",
+                "author": {
+                  "@type": "Person",
+                  "name": "Brian M."
+                },
+                "datePublished": "2026-02-25",
+                "reviewBody": "Great foldable phone at a reasonable price. Cover screen is very useful.",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "4",
+                  "bestRating": "5",
+                  "worstRating": "1"
+                }
+              }
+            ],
+            "description": "Motorola razr+ (2025) \u2014 stylish foldable design with a large 4-inch external display and flagship cameras. Available at AT&T."
           }
         }
       ]
@@ -343,8 +1482,18 @@
     "@type": "BreadcrumbList",
     "@id": "https://www.att.com/buy/phones/#breadcrumbs",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.att.com/" },
-      { "@type": "ListItem", "position": 2, "name": "Buy Phones", "item": "https://www.att.com/buy/phones/" }
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.att.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Buy Phones",
+        "item": "https://www.att.com/buy/phones/"
+      }
     ]
   },
   {
